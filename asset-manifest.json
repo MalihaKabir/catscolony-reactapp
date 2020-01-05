@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/catscolony-reactapp/static/css/main.42b82b3a.chunk.css",
+    "main.js": "/catscolony-reactapp/static/js/main.6c435d54.chunk.js",
+    "main.js.map": "/catscolony-reactapp/static/js/main.6c435d54.chunk.js.map",
+    "runtime-main.js": "/catscolony-reactapp/static/js/runtime-main.862e07a4.js",
+    "runtime-main.js.map": "/catscolony-reactapp/static/js/runtime-main.862e07a4.js.map",
+    "static/css/2.299a5230.chunk.css": "/catscolony-reactapp/static/css/2.299a5230.chunk.css",
+    "static/js/2.89721229.chunk.js": "/catscolony-reactapp/static/js/2.89721229.chunk.js",
+    "static/js/2.89721229.chunk.js.map": "/catscolony-reactapp/static/js/2.89721229.chunk.js.map",
+    "index.html": "/catscolony-reactapp/index.html",
+    "precache-manifest.1eb468790d102521f4a8fc86ce91bccd.js": "/catscolony-reactapp/precache-manifest.1eb468790d102521f4a8fc86ce91bccd.js",
+    "service-worker.js": "/catscolony-reactapp/service-worker.js",
+    "static/css/2.299a5230.chunk.css.map": "/catscolony-reactapp/static/css/2.299a5230.chunk.css.map",
+    "static/css/main.42b82b3a.chunk.css.map": "/catscolony-reactapp/static/css/main.42b82b3a.chunk.css.map",
+    "static/js/2.89721229.chunk.js.LICENSE": "/catscolony-reactapp/static/js/2.89721229.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.862e07a4.js",
+    "static/css/2.299a5230.chunk.css",
+    "static/js/2.89721229.chunk.js",
+    "static/css/main.42b82b3a.chunk.css",
+    "static/js/main.6c435d54.chunk.js"
+  ]
+}
